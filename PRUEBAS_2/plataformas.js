@@ -1,9 +1,4 @@
 class plataforma {
-  constructor(posX, posY) {
-    this.posX = posX;
-    this.posY = posY;
-    this.miColor = color(0);
-  }
 
   dibujar() {
     fill(0);
